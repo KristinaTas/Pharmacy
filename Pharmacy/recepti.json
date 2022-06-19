@@ -1,0 +1,90 @@
+[
+     {
+          "sifra": 1,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "1234567891234",
+          "datum i vreme": "2019-12-29 21:42",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Brufen",
+                    "kolicina": "1"
+               },
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": "1"
+               }
+          ]
+     },
+     {
+          "sifra": 2,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "7894561237894",
+          "datum i vreme": "2019-12-29 21:43",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": "2"
+               }
+          ]
+     },
+     {
+          "sifra": 3,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "2602000805049",
+          "datum i vreme": "2020-01-12 22:51",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Lineks",
+                    "kolicina": "1"
+               },
+               {
+                    "lek": "Salvi",
+                    "kolicina": "1"
+               }
+          ]
+     },
+     {
+          "sifra": 4,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "0412986804040",
+          "datum i vreme": "2020-02-12 14:18",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": "1"
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": "1"
+               }
+          ]
+     },
+     {
+          "sifra": 5,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "456789123",
+          "datum i vreme": "2020-02-12 14:30",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": "1"
+               }
+          ]
+     },
+     {
+          "sifra": 6,
+          "lekar": "Lekar Lekaric",
+          "jmbg pacijenta": "7885123642",
+          "datum i vreme": "2020-02-14 00:22",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Aspirin",
+                    "kolicina": "2"
+               },
+               {
+                    "lek": "Pikovit",
+                    "kolicina": "1"
+               }
+          ]
+     }
+]

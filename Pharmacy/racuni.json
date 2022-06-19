@@ -1,0 +1,254 @@
+[
+     {
+          "sifra racuna": 1,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-29 21:45",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 800.0
+     },
+     {
+          "sifra racuna": 2,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-29 21:46",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 2
+               },
+               {
+                    "lek": "Pikovit",
+                    "kolicina": 2
+               }
+          ],
+          "ukupna cena": 1000.0
+     },
+     {
+          "sifra racuna": 3,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-29 23:12",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 2
+               }
+          ],
+          "ukupna cena": 1100.0
+     },
+     {
+          "sifra racuna": 4,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-30 15:35",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Pikovit",
+                    "kolicina": 3
+               }
+          ],
+          "ukupna cena": 600.0
+     },
+     {
+          "sifra racuna": 5,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-30 21:53",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 800.0
+     },
+     {
+          "sifra racuna": 6,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-31 14:48",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 3
+               }
+          ],
+          "ukupna cena": 900.0
+     },
+     {
+          "sifra racuna": 7,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-31 14:51",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 2
+               }
+          ],
+          "ukupna cena": 600.0
+     },
+     {
+          "sifra racuna": 8,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-31 15:12",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Brufen",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 3
+               }
+          ],
+          "ukupna cena": 1800.0
+     },
+     {
+          "sifra racuna": 9,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2019-12-31 15:13",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 5
+               }
+          ],
+          "ukupna cena": 1500.0
+     },
+     {
+          "sifra racuna": 10,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-01-12 22:49",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Lineks",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 450.0
+     },
+     {
+          "sifra racuna": 11,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-01-13 14:10",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Salvi",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Lineks",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 700.0
+     },
+     {
+          "sifra racuna": 12,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-12 14:24",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Pikovit",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 1000.0
+     },
+     {
+          "sifra racuna": 13,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-12 14:36",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Amoksicilin",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Brufen",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 900.0
+     },
+     {
+          "sifra racuna": 14,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-12 16:50",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 300.0
+     },
+     {
+          "sifra racuna": 15,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-12 17:03",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Herbiko",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 300.0
+     },
+     {
+          "sifra racuna": 16,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-14 00:28",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Salvi",
+                    "kolicina": 2
+               },
+               {
+                    "lek": "Lineks",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 950.0
+     },
+     {
+          "sifra racuna": 17,
+          "apotekar": "Apotekar Apotekaric",
+          "datum i vreme": "2020-02-14 00:29",
+          "lekovi i kolicina": [
+               {
+                    "lek": "Salvi",
+                    "kolicina": 1
+               },
+               {
+                    "lek": "Lineks",
+                    "kolicina": 1
+               }
+          ],
+          "ukupna cena": 700.0
+     }
+]

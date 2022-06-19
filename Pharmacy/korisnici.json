@@ -1,0 +1,44 @@
+[
+     {
+          "korisnicko ime": "admin",
+          "lozinka": "admin123",
+          "ime": "Admin",
+          "prezime": "Adminovic",
+          "tip korisnika": "Administrator"
+     },
+     {
+          "korisnicko ime": "apo",
+          "lozinka": "apo123",
+          "ime": "Apotekar",
+          "prezime": "Apotekaric",
+          "tip korisnika": "Apotekar"
+     },
+     {
+          "korisnicko ime": "lek",
+          "lozinka": "lek123",
+          "ime": "Lekar",
+          "prezime": "Lekaric",
+          "tip korisnika": "Lekar"
+     },
+     {
+          "korisnicko ime": "marko",
+          "lozinka": "marko123",
+          "ime": "Marko",
+          "prezime": "Markovic",
+          "tip korisnika": "Lekar"
+     },
+     {
+          "korisnicko ime": "joca",
+          "lozinka": "joca123",
+          "ime": "Jovana",
+          "prezime": "Jovanovic",
+          "tip korisnika": "Apotekar"
+     },
+     {
+          "korisnicko ime": "lel",
+          "lozinka": "lel",
+          "ime": "Lel",
+          "prezime": "Lel",
+          "tip korisnika": "Lekar"
+     }
+]

@@ -1,0 +1,74 @@
+[
+     {
+          "sifra": "456456",
+          "ime": "Amoksicilin",
+          "proizvodjac": "Hemofarm",
+          "izdaje se na recept": true,
+          "cena": 500.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "789789",
+          "ime": "Brufen",
+          "proizvodjac": "Galenika",
+          "izdaje se na recept": true,
+          "cena": 400.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "123123",
+          "ime": "Herbiko",
+          "proizvodjac": "Abelapharm",
+          "izdaje se na recept": false,
+          "cena": 300.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "159159",
+          "ime": "Pikovit",
+          "proizvodjac": "Galenika",
+          "izdaje se na recept": false,
+          "cena": 150.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "753753",
+          "ime": "Magnezijum",
+          "proizvodjac": "Hemofarm",
+          "izdaje se na recept": true,
+          "cena": 100.0,
+          "obrisan": true
+     },
+     {
+          "sifra": "456789",
+          "ime": "Salvi",
+          "proizvodjac": "Ekofarm",
+          "izdaje se na recept": false,
+          "cena": 250.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "285789",
+          "ime": "Lineks",
+          "proizvodjac": "Abelapharm",
+          "izdaje se na recept": false,
+          "cena": 450.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "364857",
+          "ime": "Aspirin",
+          "proizvodjac": "Hemofarm",
+          "izdaje se na recept": false,
+          "cena": 400.0,
+          "obrisan": false
+     },
+     {
+          "sifra": "147147",
+          "ime": "Fluimucil",
+          "proizvodjac": "Ekofarm",
+          "izdaje se na recept": false,
+          "cena": 350.0,
+          "obrisan": false
+     }
+]
